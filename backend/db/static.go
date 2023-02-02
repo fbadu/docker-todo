@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/girikuncoro/belajar-docker-pemula/backend/schema"
+	"github.com/fbadu/docker-todo/backend/schema"
 )
 
 type Static struct{}

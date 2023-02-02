@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/girikuncoro/belajar-docker-pemula/backend/schema"
+	"github.com/fbadu/docker-todo/backend/schema"
 )
 
 const repoKey = "repoKey"
